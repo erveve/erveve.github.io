@@ -75,6 +75,14 @@
 <categoryId>1</categoryId>
 <picture>https://erveve.github.io/feeds/%D0%BF%D0%B5%D1%80%D1%81%D0%B8%D0%BA.jpg</picture>
 </offer>
+<offer id="9" available="true">
+<url>https://snowqueen.ru/product/palto-zhenskoe-749637003</url>
+<price>1111890</price>
+<name>Шуба</name>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://static.snowqueen.ru/img/1000/1500/resizeWebP/catalog/product/0/2/02062b183ff6a7fa0ca5e9171a73033346471fb1_sl_737722003_1.jpg</picture>
+</offer>>
 </offers>
 </shop>
 </yml_catalog>
