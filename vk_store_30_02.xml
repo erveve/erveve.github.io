@@ -82,7 +82,15 @@
 <currencyId>RUR</currencyId>
 <categoryId>1</categoryId>
 <picture>https://static.snowqueen.ru/img/1000/1500/resizeWebP/catalog/product/0/2/02062b183ff6a7fa0ca5e9171a73033346471fb1_sl_737722003_1.jpg</picture>
-</offer>>
+</offer>
+<offer id="10" available="true">
+<url>https://7745.by/product/uzo-dkc-yon-max-mdl100</url>
+<price>11890</price>
+<name>Jfif</name>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://7745.by/img/imagecache/card_modal_big/uploads/products/847850/11.jfif</picture>
+</offer>
 </offers>
 </shop>
 </yml_catalog>
