@@ -14,7 +14,7 @@
 <offers>
 <offer id="1" available="true">
 <url>https://vk.com/vkstore?z=photo-131520226_457240040%2Falbum-131520226_2919018556</url>
-<price>3591</price>
+<price>3592</price>
 <name>Рюкзак</name>
 <currencyId>RUR</currencyId>
 <categoryId>2</categoryId>
@@ -22,7 +22,7 @@
 </offer>
 <offer id="2" available="true">
 <url>https://vk.com/albums-131520226?z=photo-131520226_457240025%2Fphotos-131520226</url>
-<price>3090</price>
+<price>3092</price>
 <name>Худи</name>
 <currencyId>RUR</currencyId>
 <categoryId>1</categoryId>
@@ -30,7 +30,7 @@
 </offer>
 <offer id="3" available="true">
 <url>https://vk.com/albums-131520226?z=photo-131520226_457240033%2Fphotos-131520226</url>
-<price>1291</price>
+<price>1292</price>
 <name>Мягкая игрушка Сеня</name>
 <currencyId>RUR</currencyId>
 <categoryId>2</categoryId>
@@ -38,7 +38,7 @@
 </offer>
 <offer id="4" available="true">
 <url>https://vk.com/albums-131520226?z=photo-131520226_457240001%2Fphotos-131520226</url>
-<price>1790</price>
+<price>1792</price>
 <name>Футболка VK</name>
 <currencyId>RUR</currencyId>
 <categoryId>1</categoryId>
@@ -46,7 +46,7 @@
 </offer>
 <offer id="5" available="true">
 <url>https://vk.com/albums-131520226?z=photo-131520226_457240026%2Fphotos-131520226</url>
-<price>3090</price>
+<price>3092</price>
 <name>Худи</name>
 <currencyId>RUR</currencyId>
 <categoryId>1</categoryId>
@@ -54,7 +54,7 @@
 </offer>
 <offer id="6" available="true">
 <url>https://vk.com/albums-131520226?z=photo-131520226_457239982%2Fphotos-131520226</url>
-<price>630</price>
+<price>632</price>
 <name>Стакан для воды</name>
 <currencyId>RUR</currencyId>
 <categoryId>1</categoryId>
@@ -62,7 +62,7 @@
 </offer>
 <offer id="7" available="true">
 <url>https://vk.com/vkstore?z=photo-131520226_457240041%2Falbum-131520226_291901855</url>
-<price>1190</price>
+<price>1192</price>
 <name>Чехол для ноутбука 13 дюймов</name>
 <currencyId>RUR</currencyId>
 <categoryId>1</categoryId>
@@ -70,7 +70,7 @@
 </offer>
 <offer id="18" available="true">
 <url>https://vk.com/albums-131520226?z=photo-131520226_457240032%2Fphotos-131520226</url>
-<price>1299</price>
+<price>1292</price>
 <name>Персик</name>
 <currencyId>RUR</currencyId>
 <categoryId>2</categoryId>
@@ -78,7 +78,7 @@
 </offer>
 <offer id="19" available="true">
 <url>https://vk.com/albums-131520226?z=photo-131520226_457240032%2Fphotos-131520226</url>
-<price>1199</price>
+<price>1192</price>
 <name>Персик 2</name>
 <currencyId>RUR</currencyId>
 <categoryId>1</categoryId>
