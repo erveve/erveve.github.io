@@ -75,6 +75,14 @@
 <categoryId>3</categoryId>
 <picture>https://rinatr.github.io/feeds/%D0%BF%D0%B5%D1%80%D1%81%D0%B8%D0%BA.jpg</picture>
 </offer>
+<offer id="19" available="true">
+<url>https://vk.com/albums-131520226?z=photo-131520226_457240032%2Fphotos-131520226</url>
+<price>1199</price>
+<name>Персик 2</name>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://rinatr.github.io/feeds/%D0%BF%D0%B5%D1%80%D1%81%D0%B8%D0%BA.jpg</picture>
+</offer>
 </offers>
 </shop>
 </yml_catalog>
