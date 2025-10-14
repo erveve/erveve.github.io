@@ -9,6 +9,7 @@
 </currencies>
 <categories>
 <category id="1">Одежда, обувь и аксессуары</category>
+<category id="2">Игрушки</category>
 </categories>
 <offers>
 <offer id="1" available="true">
@@ -72,7 +73,7 @@
 <price>1299</price>
 <name>Персик</name>
 <currencyId>RUR</currencyId>
-<categoryId>3</categoryId>
+<categoryId>2</categoryId>
 <picture>https://rinatr.github.io/feeds/%D0%BF%D0%B5%D1%80%D1%81%D0%B8%D0%BA.jpg</picture>
 </offer>
 <offer id="19" available="true">
