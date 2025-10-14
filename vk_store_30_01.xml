@@ -14,10 +14,10 @@
 <offers>
 <offer id="1" available="true">
 <url>https://vk.com/vkstore?z=photo-131520226_457240040%2Falbum-131520226_2919018556</url>
-<price>3590</price>
+<price>3591</price>
 <name>Рюкзак</name>
 <currencyId>RUR</currencyId>
-<categoryId>1</categoryId>
+<categoryId>2</categoryId>
 <picture>https://rinatr.github.io/feeds/%D1%80%D1%8E%D0%BA%D0%B7%D0%B0%D0%BA.jpg</picture>
 </offer>
 <offer id="2" available="true">
@@ -30,10 +30,10 @@
 </offer>
 <offer id="3" available="true">
 <url>https://vk.com/albums-131520226?z=photo-131520226_457240033%2Fphotos-131520226</url>
-<price>1290</price>
+<price>1291</price>
 <name>Мягкая игрушка Сеня</name>
 <currencyId>RUR</currencyId>
-<categoryId>1</categoryId>
+<categoryId>2</categoryId>
 <picture>https://rinatr.github.io/feeds/%D1%81%D0%B5%D0%BD%D1%8F.jpg</picture>
 </offer>
 <offer id="4" available="true">
